@@ -1,5 +1,4 @@
 
-
 This dataset is provided as part of Citizen Data Science project, to gather & provide fairly clean data
 This dataset provides a listing of healthcare facilities in Ghana, by exploring it we gain new understanding of the country's health infrastructure.
 
