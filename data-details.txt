@@ -6,3 +6,22 @@ This dataset contains information about health facilities in Ghana organised by 
 
 DataSet is having Region	District	FacilityName	Type	Town	Ownership	Latitude	Longitude
 columns in health-facilities-gh.csv 
+
+In health-facilities-gh.csv file below columns are there
+
+Region			 One of the 10 regions in ghana
+District		 Regions are made up districts
+FacilityName		 The name of the health facility
+Type			 The type of the health facility
+Town			 The town it is located in
+Ownership		 The owner of the facility
+Latitude		 latitude
+Longitude		 Logitude
+
+In health-facility-tiers.csv file below columns are there
+Region     		The region of the facility
+Facility    		Facility name
+Tier        		The Tier of the facility Tier 1:
+			Teaching hospitals and Regional hospitals - 5,000 Patients/month Tier 2:
+			District hospitals and Large volume private hospitals - 3,000 Patients/month Tier 3:
+			Small clinics and maternity homes - <1,000 Patients/month
